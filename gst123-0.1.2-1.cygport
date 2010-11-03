@@ -1,0 +1,3 @@
+DESCRIPTION="Command-line player based on GStreamer"
+HOMEPAGE="http://space.twc.de/~stefan/gst123.php"
+SRC_URI="http://space.twc.de/~stefan/gst123/${P}.tar.bz2"
