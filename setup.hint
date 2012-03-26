@@ -1,5 +1,5 @@
 category: Audio Video
-requires: gstreamer0.10-plugins-base gstreamer0.10-plugins-oss libgcc1 libglib2.0_0 libgstinterfaces0.10_0 libgstreamer0.10_0 libgtk2.0_0 libncurses10 libstdc++6 libX11_6
+requires: gstreamer0.10-plugins-base gstreamer0.10-plugins-good libgcc1 libglib2.0_0 libgstinterfaces0.10_0 libgstreamer0.10_0 libgtk2.0_0 libncurses10 libstdc++6 libX11_6
 sdesc: "GStreamer command-line media player"
 ldesc: "The program gst123 is designed to be a more flexible command 
 line player in the spirit of ogg123 and mpg123, based on gstreamer. It 
