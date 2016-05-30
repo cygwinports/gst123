@@ -1,6 +1,6 @@
 NAME="gst123"
-VERSION=0.3.3
-RELEASE=2
+VERSION=0.3.4
+RELEASE=1
 CATEGORY="Audio Video"
 SUMMARY="GStreamer command-line media player"
 DESCRIPTION="The program gst123 is designed to be a more flexible command line
